@@ -1,5 +1,8 @@
-﻿namespace Address.Core;
+﻿namespace Address.Core.Type;
 
+/// <summary>
+/// Типы планировочной структуры
+/// </summary>
 public enum PlanningStructureType
 {
     Microdistrict,

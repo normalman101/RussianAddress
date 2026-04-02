@@ -1,7 +1,7 @@
-﻿namespace Address.Core.Enum;
+﻿namespace Address.Core.Type;
 
 /// <summary>
-/// Типы субъектов РФ согласно классификатору ГАР
+/// Типы субъектов РФ
 /// </summary>
 public enum FederalSubjectType
 {

@@ -1,5 +1,8 @@
-﻿namespace Address.Core;
+﻿namespace Address.Core.Type;
 
+/// <summary>
+/// Типы помещения
+/// </summary>
 public enum RoomType
 {
     Flat,

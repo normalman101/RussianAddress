@@ -1,5 +1,8 @@
-﻿namespace Address.Core.Enum;
+﻿namespace Address.Core.Type;
 
+/// <summary>
+/// Типы здания
+/// </summary>
 public enum BuildingType
 {
     House,

@@ -1,5 +1,8 @@
-﻿namespace Address.Core;
+﻿namespace Address.Core.Type;
 
+/// <summary>
+/// Типы улично-дорожной сети
+/// </summary>
 public enum StreetType
 {
     Street,
