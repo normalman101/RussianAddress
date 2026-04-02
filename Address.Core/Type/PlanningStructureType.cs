@@ -1,6 +1,6 @@
 ﻿namespace Address.Core;
 
-public enum PlanningElementType
+public enum PlanningStructureType
 {
     Microdistrict,
     GardenAlliance,

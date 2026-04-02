@@ -1,4 +1,4 @@
-﻿namespace Address.Core;
+﻿namespace Address.Core.Enum;
 
 /// <summary>
 /// Типы субъектов РФ согласно классификатору ГАР
